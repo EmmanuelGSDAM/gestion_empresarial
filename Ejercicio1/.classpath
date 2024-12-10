@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/commons-logging-1.2-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/email-util-1.0.7-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/fontbox-2.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/javase-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jempbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/pdfbox-2.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/postgresql-42.2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/preflight-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/xmpbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minim/OneDrive/Escritorio/JDBC/LIBRERIAS/jdom-2.0.6-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorXML"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorQR"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorPDF"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorCSV"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorJSON"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorGR"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/minim/Downloads/org.mockito.mockito-all_1.9.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Ejercicio1/src"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/preflight-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/xmpbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Downloads/pdfbox-2.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Downloads/commons-logging-1.2-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Downloads/fontbox-2.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/javase-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/email-util-1.0.7-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/postgresql-42.2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Emmanuel Grande/Desktop/JDBC/LIBRERIAS/LIBRERIAS/gson-2.8.8.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorCSV"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorGR"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorJSON"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorPDF"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorQR"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/VisorXML"/>
+	<classpathentry kind="output" path="Ejercicio1/bin"/>
+</classpath>
